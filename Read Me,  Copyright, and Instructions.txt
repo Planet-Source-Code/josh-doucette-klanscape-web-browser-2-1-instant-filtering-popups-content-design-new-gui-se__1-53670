@@ -1,0 +1,93 @@
+'||      '||`                                .|';   ||    
+ ||       ||                                 ||     ||    
+ || //`   ||   '''|.  `||''|,  ('''' .|''|, '||'  ''||''  
+ ||<<     ||  .|''||   ||  ||   `'') ||  ||  ||     ||    
+.|| \\.  .||. `|..||. .||  ||. `...' `|..|' .||.    `|..' 
+       Project Website:   www.KlanSoft.com/klanscape
+       Project Author:    Joshua Doucette
+       Contact E-mail:    Webmaster@klansoft.com
+------------------------------------------
+Warning: This program contains copyrighted source code by Joshua Doucette.
+You may not use any portion of the source code or binaries of this program without authorized 
+written permission from the original author, Joshua Doucette for any public or commercial purpose.
+This project and the included source code are strictly for private home study only The project, 
+including source code and binary form, or any portion of it, may not distributed by anyone
+except by the original author and Planet-Source-Code.com. You may not use any part of
+this program or project to develop your own public or retail applications. Do not distribute
+any portion of the source code by any means and all rights are held by the author.
+Any use of this source code in your applications constitutes copyright infringement and
+charges will be filed against you and/or your company to the fullest extent allowed by law.
+If you are interested in using ideas, source code, or portions of this program, 
+please see http://www.klansoft.com/klanscape for information or e-mail Webmaster@klansoft.com
+-------------------------------------------
+
+If you are looking for some friendly productive chat, feel free to
+add Webmaster@klansoft.com to one screen name for MSN Messenger Service.
+
+Thanks and good luck in your learning adventures in Visual Basic by Microsoft!
+
+==============================
+
+PROGRAM TITLE : KlanScape Ultimate Web Browser (2nd Release)
+PROGRAM REQUIREMENTS: Visual Basic 6, Microsoft Tabbed Dialog Control,
+                      Microsoft Internet Explorer.
+
+Thank you for your interest in improving your programming skills!
+This my project (source code) for a program I call, KlanScape Ultimate Browser.
+
+This browser has the ability to filter webpages, detect content of webpages,
+gather information on webpages, and edit webpages in live. Here are just a few
+things you can already do with this program:
+
+* Determine information about a website you are visiting
+including Title, URL, date created, domain name, and file size.
+
+* Display active certificates and cookies for the site you are on.
+
+* Block popup windows, warn of popup windows, and decide how to handle them
+including opening in a new KlanScape window or Internet Explorer window.
+
+* Extract site elements into clear categories, including Document Elements,
+Links (URLs), Images, and Buttons/Inputs.
+
+* List all of links on the page you are on, and count how many there are.
+
+* Find the content of the page you are on, including source code, by using
+the filter setting you decide. Then, decide what custom filters you want to use;
+including the ability to alert, redirect your browser, or block a site based
+on the content that is found on the site.
+
+* Edit web sites in real-time using different methods. Design Mode allows you to
+control anything on the site, including editing text and images while the site is
+still open in active, including CGI, Perl, Secure, and Encoded sites. The other
+is to edit or write to the document using HTML elements including modifying the page
+colors and CSS in real-time.
+
+* Shows the active element (what you have selected in the web browser) under
+'Active Element' and edit it anyway you want, delete it, or replace it in real-time,
+anytime you want to.
+
+* View a text-only version of the webpage you are visiting, supports CGI, PHP, ect.
+
+* Inspect the source code with a very simple (easier to use than Notepad) built-in
+text edit that includes great tools such as 'Does string exist' and
+'Find a string between'.
+
+* A bar which covers the top of the entire windows screen to alert you of
+important messages, it will close when you click it.
+
+
+==============================
+ ______  __   __      _____  _____  _______ _     _ _     _ _______
+ |_____]   \_/          |   |     | |______ |_____| |     | |_____|
+ |_____]    |         __|   |_____| ______| |     | |_____| |     |
+                                                                   
+ ______   _____  _     _ _______ _______ _______ _______ _______
+ |     \ |     | |     | |       |______    |       |    |______
+ |_____/ |_____| |_____| |_____  |______    |       |    |______
+                                                                
+  * Thanks and I hope you find this sample project a great learning experience. *
+
+
+Use the following link to view all of my current source code at Planet-Source-Code.com!
+http://www.planet-source-code.com/vb/scripts/BrowseCategoryOrSearchResults.asp?lngWId=1&blnAuthorSearch=TRUE&lngAuthorId=2284543731&strAuthorName=Josh%20Doucette&txtMaxNumberOfEntriesPerPage=25
